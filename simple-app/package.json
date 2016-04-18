@@ -1,0 +1,11 @@
+{
+  "name": "simple",
+  "version": "1.0.0",
+  "description": "A simple electron app",
+  "main": "main.js",
+  "scripts": {
+    "start" : "electron ."
+  },
+  "author": "arifcakiroglu",
+  "license": "ISC"
+}

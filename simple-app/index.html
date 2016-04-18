@@ -1,0 +1,28 @@
+<html>
+  <head>
+    <script>
+    var dialog = require('electron').remote.dialog;
+
+    dialog.showMessageBox({
+      type: 'info',
+      buttons: "ok",
+      message: 'Exit?'
+    }, function (amk) {
+        alert('ok')
+    });
+
+      window.onload = function () {
+        var fs = require('fs');
+        var p = document.createElement('p');
+        p.textContent = fs.readFileSync('nodeschool.txt');
+        document.body.appendChild(p)
+      };
+      var myNotification = new Notification('Title', {
+        body: 'Lorem Ipsum Dolor Sit Amet'
+      });
+    </script>
+  </head>
+  <body>
+    <h1>Hello Nodeschool </h1>
+  </body>
+</html>
