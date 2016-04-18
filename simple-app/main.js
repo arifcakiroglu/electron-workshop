@@ -1,14 +1,12 @@
 /*
  * Nodeschool Istanbul
- * author: arifcakiroglu
+ * author: Arif Cakiroglu <arif@linux.com> (http://github.com/arifcakiroglu)
  */
-
 
 const app = require( 'app' );
 const BrowserWindow = require( 'browser-window' );
-const dialog = require('dialog');
 
-const mainWindow = null;
+let mainWindow = null;
 
 app.on( 'ready', function() {
 
@@ -52,8 +50,8 @@ app.on( 'ready', function() {
     */
 
   let options = {
-    width: 300,
-    height: 300,
+    width: 600,
+    height: 400,
     title : "Electron app"
   };
 

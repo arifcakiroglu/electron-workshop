@@ -1,11 +1,25 @@
 {
-  "name": "simple",
+  "name": "simple-app",
   "version": "1.0.0",
-  "description": "A simple electron app",
+  "description": "Electron simple application",
   "main": "main.js",
   "scripts": {
-    "start" : "electron ."
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "arifcakiroglu",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arifcakiroglu/electron-workshop.git"
+  },
+  "keywords": [
+    "electron",
+    "desktop",
+    "app"
+  ],
+  "author": "Arif Cakiroglu <arif@linux.com> (http://github.com/arifcakiroglu)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arifcakiroglu/electron-workshop/issues"
+  },
+  "homepage": "https://github.com/arifcakiroglu/electron-workshop#readme"
 }
