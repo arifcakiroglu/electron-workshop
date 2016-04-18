@@ -1,0 +1,18 @@
+body{
+  margin: 0;
+  padding: 0;
+  background-color: #4A0F61;
+  color:#fff;
+  font-family: "Open Sans", serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+body.blue{
+  background-color: #082448;
+}
+
+body.pink{
+  background-color: #B71283;
+}

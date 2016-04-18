@@ -1,0 +1,46 @@
+<html>
+  <head>
+    <link rel="stylesheet" href="app.css">
+    <script>
+      const remote = require('electron').remote;
+      const Menu = remote.Menu;
+      const MenuItem = remote.MenuItem;
+
+      var menu = new Menu();
+      menu.append(
+        new MenuItem({
+          label: 'Blue',
+          click: function() {
+            document.getElementsByTagName('body')[0].className = "blue"
+          }
+        })
+      );
+      menu.append(
+        new MenuItem({
+          label: 'Pink',
+          click: function() {
+            document.getElementsByTagName('body')[0].className = "pink"
+          }
+        })
+      );
+      menu.append(new MenuItem({ type: 'separator' }));
+      menu.append(
+        new MenuItem({
+          label: 'Default',
+          click: function() {
+            document.getElementsByTagName('body')[0].className = ""
+          }
+        })
+      );
+
+      window.addEventListener('contextmenu', function (e) {
+      e.preventDefault();
+      menu.popup(remote.getCurrentWindow());
+      }, false);
+
+    </script>
+  </head>
+  <body>
+    <h1>Right Click <br><small>(context menu)</small></h1>
+  </body>
+</html>
