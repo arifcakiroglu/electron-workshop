@@ -10,7 +10,7 @@ Todo list:
 * ✓ [Icon finder app](https://github.com/arifcakiroglu/electron-workshop/tree/master/icon-finder)
 * ✓ [Frameless Window](https://github.com/arifcakiroglu/electron-workshop/tree/master/frameless-window)
 * ✓ [Clipboard](https://github.com/arifcakiroglu/electron-workshop/tree/master/clipboard)
-* ✕ globalShortcut
+* ✓ [globalShortcut](https://github.com/arifcakiroglu/electron-workshop/tree/master/global-shortcut)
 * ✕ ipc
 * ✕ Menu
 * ✕ powerMonitor
