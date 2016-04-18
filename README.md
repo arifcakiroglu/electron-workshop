@@ -15,7 +15,7 @@ Todo list:
 * ✕ Menu
 * ✕ powerMonitor
 * ✕ screen
-* ✕ shell
+* ✓ [shell](https://github.com/arifcakiroglu/electron-workshop/tree/master/shell)
 * ✕ webContents
 * ✕ webFrame
 * ✕ window.open
