@@ -12,7 +12,7 @@ Todo list:
 * ✓ [Clipboard](https://github.com/arifcakiroglu/electron-workshop/tree/master/clipboard)
 * ✓ [globalShortcut](https://github.com/arifcakiroglu/electron-workshop/tree/master/global-shortcut)
 * ✕ ipc
-* ✕ Menu
+* ✓ [Menu](https://github.com/arifcakiroglu/electron-workshop/tree/master/menu)
 * ✕ powerMonitor
 * ✕ screen
 * ✓ [shell](https://github.com/arifcakiroglu/electron-workshop/tree/master/shell)
