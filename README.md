@@ -4,8 +4,8 @@ Creating Desktop Applications With Electron
 
 Todo:
 
-* ✓ ✕ Simple app
-* ☑ Dialog example
+* ☑ Simple app
+* ✕ Dialog example
 * ☑ Tray menu
 * ☑ Icon finder app
 * ☑ Clipboard
@@ -16,8 +16,8 @@ Todo:
 * ☑ powerMonitor
 * ☑ screen
 * ☑ shell
-* ☑ webContents
-* ☑ webFrame
-* ☑ window.open
-* ☑ DevTools Extension
+* ✕ webContents
+* ✕ webFrame
+* ✕ window.open
+* ✕ DevTools Extension
 
