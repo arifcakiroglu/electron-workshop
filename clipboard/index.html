@@ -1,0 +1,19 @@
+<html>
+  <head>
+    <link rel="stylesheet" href="app.css">
+    <script>
+      const clipboard = require('electron').clipboard;
+      window.onload = function () {
+        clipboard.writeText(
+          document.getElementsByTagName("H1")[0].innerHTML
+        );
+        
+        console.log("copied text is:", clipboard.readText())
+      };
+
+    </script>
+  </head>
+  <body>
+    <h1>Hello Nodeschool </h1>
+  </body>
+</html>
