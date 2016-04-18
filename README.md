@@ -19,5 +19,5 @@ Todo list:
 * ✕ webContents
 * ✕ webFrame
 * ✕ window.open
-* ✕ DevTools Extension
+* ✕ [DevTools Extension](https://github.com/arifcakiroglu/electron-workshop/tree/master/devtools-extension)
 
