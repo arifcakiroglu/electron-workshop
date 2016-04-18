@@ -18,6 +18,5 @@ Todo list:
 * ✓ [shell](https://github.com/arifcakiroglu/electron-workshop/tree/master/shell)
 * ✕ webContents
 * ✕ webFrame
-* ✕ window.open
 * ✓ [DevTools Extension](https://github.com/arifcakiroglu/electron-workshop/tree/master/devtools-extension)
 
