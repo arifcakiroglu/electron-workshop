@@ -9,7 +9,7 @@ Todo list:
 * ✓ [Tray menu](https://github.com/arifcakiroglu/electron-workshop/tree/master/tray-menu)
 * ✓ [Icon finder app](https://github.com/arifcakiroglu/electron-workshop/tree/master/icon-finder)
 * ✓ [Frameless Window](https://github.com/arifcakiroglu/electron-workshop/tree/master/frameless-window)
-* ✕ Clipboard
+* ✓ [Clipboard](https://github.com/arifcakiroglu/electron-workshop/tree/master/clipboard)
 * ✕ globalShortcut
 * ✕ ipc
 * ✕ Menu
