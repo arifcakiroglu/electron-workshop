@@ -4,7 +4,7 @@ Creating Desktop Applications With Electron
 
 Todo:
 
-* ☑ Simple app
+* ☑ (/tree/master/simple-app)[Simple app]
 * ✕ Dialog example
 * ✕ Tray menu
 * ✕ Icon finder app
