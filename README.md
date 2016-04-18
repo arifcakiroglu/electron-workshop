@@ -2,7 +2,7 @@
 
 Creating Desktop Applications With Electron
 
-Todo:
+Todo list:
 
 * ☑ [Simple app](https://github.com/arifcakiroglu/electron-workshop/tree/master/simple-app)
 * ☑ [Dialog example](https://github.com/arifcakiroglu/electron-workshop/tree/master/dialog-example)
