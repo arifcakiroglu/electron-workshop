@@ -8,6 +8,7 @@ Todo list:
 * ✓ [Dialog example](https://github.com/arifcakiroglu/electron-workshop/tree/master/dialog-example)
 * ✓ [Tray menu](https://github.com/arifcakiroglu/electron-workshop/tree/master/tray-menu)
 * ✓ [Icon finder app](https://github.com/arifcakiroglu/electron-workshop/tree/master/icon-finder)
+* ✓ [Frameless Window](https://github.com/arifcakiroglu/electron-workshop/tree/master/frameless-window)
 * ✕ Clipboard
 * ✕ Frameless Window
 * ✕ globalShortcut
@@ -19,5 +20,5 @@ Todo list:
 * ✕ webContents
 * ✕ webFrame
 * ✕ window.open
-* ✕ [DevTools Extension](https://github.com/arifcakiroglu/electron-workshop/tree/master/devtools-extension)
+* ✓ [DevTools Extension](https://github.com/arifcakiroglu/electron-workshop/tree/master/devtools-extension)
 
