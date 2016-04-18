@@ -1,0 +1,23 @@
+<html>
+  <head>
+    <script>
+      let dialog = require('electron').remote.dialog;
+
+      // Open DevTools
+      require('remote').getCurrentWindow().toggleDevTools();
+
+      let buttons = ["ok", "cancel"]
+
+      dialog.showMessageBox({
+        type: 'info',
+        buttons: ["ok", "cancel"],
+        message: 'Exit?'
+      }, function (res) {
+          console.log('response: ',buttons[res])
+      });
+    </script>
+  </head>
+  <body>
+    <h1>Dialog Example</h1>
+  </body>
+</html>
