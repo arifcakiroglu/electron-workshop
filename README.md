@@ -13,8 +13,8 @@ Todo list:
 * ✓ [globalShortcut](https://github.com/arifcakiroglu/electron-workshop/tree/master/global-shortcut)
 * ✕ ipc
 * ✓ [Menu](https://github.com/arifcakiroglu/electron-workshop/tree/master/menu)
-* ✕ powerMonitor
-* ✓ [screen](https://github.com/arifcakiroglu/electron-workshop/tree/master/screen) 
+* ✓ [powerMonitor](https://github.com/arifcakiroglu/electron-workshop/tree/master/power-monitor)
+* ✓ [screen](https://github.com/arifcakiroglu/electron-workshop/tree/master/screen)
 * ✓ [shell](https://github.com/arifcakiroglu/electron-workshop/tree/master/shell)
 * ✓ [webContents](https://github.com/arifcakiroglu/electron-workshop/tree/master/web-contents)
 * ✓ [webFrame](https://github.com/arifcakiroglu/electron-workshop/tree/master/web-frame)
