@@ -16,7 +16,6 @@ Todo list:
 * ✕ powerMonitor
 * ✕ screen
 * ✓ [shell](https://github.com/arifcakiroglu/electron-workshop/tree/master/shell)
-* ✕ webContents
+* ✓ [webContents](https://github.com/arifcakiroglu/electron-workshop/tree/master/web-contents)
 * ✓ [webFrame](https://github.com/arifcakiroglu/electron-workshop/tree/master/web-frame)
 * ✓ [DevTools Extension](https://github.com/arifcakiroglu/electron-workshop/tree/master/devtools-extension)
-
