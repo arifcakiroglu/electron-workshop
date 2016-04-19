@@ -17,6 +17,6 @@ Todo list:
 * ✕ screen
 * ✓ [shell](https://github.com/arifcakiroglu/electron-workshop/tree/master/shell)
 * ✕ webContents
-* ✕ webFrame
+* ✓ [webFrame](https://github.com/arifcakiroglu/electron-workshop/tree/master/web-frame)
 * ✓ [DevTools Extension](https://github.com/arifcakiroglu/electron-workshop/tree/master/devtools-extension)
 
